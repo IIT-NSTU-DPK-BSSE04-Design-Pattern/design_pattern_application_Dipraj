@@ -1,0 +1,16 @@
+#Scenario Delta(Automated Vehicle System):comdelta
+
+Design Pattern: Abstract Factory Pattern
+Reason:
+1.Decoupling of Client Code from Concrete Classes
+2.Flexibility in Adding New Vehicle Types
+3.Consistency in Vehicle Assembly
+4.Separation of Concerns
+5.Scalability and Extensibility
+
+
+
+#Scenario Gamma(Payment Gateways):com folder
+
+Design Pattern: Adapter Design Pattern.
+Reason:

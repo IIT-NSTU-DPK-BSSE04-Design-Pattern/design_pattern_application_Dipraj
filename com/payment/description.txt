@@ -1,0 +1,8 @@
+Scenario Gamma(Payment Gateways):
+
+Design pattern: Adapter Factor Design Pattern.
+Reason:
+1.Interface Compatibility --
+2. Decoupling.
+3.Simplified Code.
+4.Extensibility

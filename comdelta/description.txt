@@ -10,7 +10,3 @@ Reason:
 
 
 
-#Scenario Gamma(Payment Gateways):com folder
-
-Design Pattern: Adapter Design Pattern.
-Reason:
